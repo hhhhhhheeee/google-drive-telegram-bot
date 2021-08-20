@@ -25,7 +25,7 @@ class Messages:
 
     HELP_MSG = [
         ".",
-        "**Google Drive Uploader**\n__I can upload files from direct link or Telegram Files to your Google Drive. All i need is to authenticate me to your Google Drive Account and send a direct download link or Telegram File.__\n\nI have more features... ! Wanna know about it ? Just walkthrough this tutorial and read the messages carefully.",
+        "**\n\n╭──「 ⭕️ BOT INFO ⭕️  」\n\n├ 🧬Owner :@ShivamTheSkywalker\n\n├ 💾 Functionality : GDrive Uploader\n\n├ 🛡Support group : 😬\n\n├ 🛠Channel : @XStream_Flix\n\n├ 🔼 Login to Use : /auth\n\n├ 🧲Forward File to Upload\n\n╰──「 🚸@XStream_Flix🚸 」",
         
         f"**Authenticating Google Drive**\n__Send the /{BotCommands.Authorize[0]} commmand and you will receive a URL, visit URL and follow the steps and send the received code here. Use /{BotCommands.Revoke[0]} to revoke your currently logged Google Drive Account.__\n\n**Note: I will not listen to any command or message (except /{BotCommands.Authorize[0]} command) until you authorize me.\nSo, Authorization is mandatory !**",
         
